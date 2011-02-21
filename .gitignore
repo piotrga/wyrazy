@@ -1,0 +1,9 @@
+*.iml
+*.ipr
+target
+out
+lib_managed
+project/boot
+.idea
+project/plugins/target
+project/plugins/lib_managed
